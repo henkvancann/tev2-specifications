@@ -3776,4 +3776,3 @@ entries:
     termid: "concept:writer"
     vsntag: "documentation"
     synonymOf: "author"
-    bodyFile: "./terms/hvc.md"
