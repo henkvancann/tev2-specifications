@@ -64,3 +64,9 @@ a[hovertext]:hover::after {
   visibility: visible;
   opacity: .95;
 }
+
+a {
+  color: #111;
+  text-decoration: none;
+  transition: color 0.3s;
+}
