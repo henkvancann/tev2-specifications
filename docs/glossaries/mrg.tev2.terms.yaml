@@ -2912,3 +2912,4 @@ entries:
     termid: "concept:writer"
     vsntag: "terms"
     synonymOf: "author"
+    bodyFile: "./terms/hvc.md"
